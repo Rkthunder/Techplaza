@@ -216,6 +216,11 @@ body.nav-active { overflow: hidden; }
   font-weight: var(--weight-regular);
   line-height: var(--lineHeight-2);
 }
+.logo-name{
+  font-size: 40px;
+  padding-bottom: 20px;
+  color: antiquewhite;
+}
 
 .display-1 {
   font-size: var(--fontSize-display-1);
