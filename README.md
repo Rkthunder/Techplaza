@@ -1,7 +1,8 @@
 # Techplaza
 steps to commit and push the code in github 
 * if not a clonede this project in your lockel git or VSCode then 
-1. run this command in your VScode : git clone https://github.com/Rkthunder/Techplaza.git
+0. run this command in your VScode : git clone https://github.com/Rkthunder/Techplaza.git
+1. git pull origin main : this is for how wor king on this project
 2. and next cd Techplaza
 3. then you can chenge or modify the folders and files 
 4. after that first you run : git add .
