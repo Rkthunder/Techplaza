@@ -8,6 +8,7 @@ steps to commit and push the code in github
 5. check the status : git status
 6. and next : git commit -m "Your commit message here"
 7. last on : git push origin main
+8. if t shows error in push commang then frirt enter thus commad : git pull origin main
  
 hii bro error coman add sandy
 
